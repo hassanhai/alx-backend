@@ -1,14 +1,14 @@
 # Translations template for i18n.
-# Copyright (C) 2022  Hassan Haihal
+# Copyright (C) 2024 Hassan Haihal
 # This file is distributed under the same license as the i18n project.
-# Hassan Haihal <hassan.mouilha@gmail.com>, 2022.
+# Hassan Haihal <hassan.mouilha@gmail.com>, 2024.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: hassan.mouilha@gmail.com\n"
-"POT-Creation-Date: 2022-05-10 06:39+0100\n"
+"POT-Creation-Date: 2024-04-10 06:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Hassan Haihal <hassan.mouilha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
